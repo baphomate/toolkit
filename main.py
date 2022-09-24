@@ -37,7 +37,7 @@ def main():
     #***//home menu 
     def home():
         banner()
-        print("┌─[MENU]─[Baphomate.Inc]
+        print("┌─[MENU]─[Baphomate.Inc]")
         print("│")
         print("│")
         print("├──• 1.Install Packagess(recommend)")
